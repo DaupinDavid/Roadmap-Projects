@@ -1,4 +1,4 @@
-# 🎲 P1: CASINO : Simulateur Monte Carlo & Analyse du Risque de Ruine
+# 🎲 P1 CASINO : Simulateur Monte Carlo & Analyse du Risque de Ruine
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Vectorisation-green.svg)
