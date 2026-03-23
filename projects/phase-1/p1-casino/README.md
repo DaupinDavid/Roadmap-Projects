@@ -141,4 +141,4 @@ Ce type de modélisation ou d'optimisation de flux de données répond à vos en
 
 ---
 
-*Projet 1: Casino Monté Carlo — Phase 1 · Roadmap Data Engineering *
+Projet 1: Casino Monté Carlo — Phase 1 · Roadmap Data Engineering
