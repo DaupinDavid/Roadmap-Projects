@@ -3,7 +3,6 @@
 Ce dépôt documente mon ascension technique vers l'ingénierie de données massive. <br>Chaque projet valide une brique critique de la stack Data moderne.
 
 
->>>>>>> 98e3efc5edaf993a2e6e0fdaa2d114a950340c2b
 ## 📂 Portfolio des Projets
 
 | # | Projet | Focus Technique | Status |
